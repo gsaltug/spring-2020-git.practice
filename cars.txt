@@ -2,5 +2,11 @@ Toyota
 Mazda
 Honda
 txt
+<<<<<<< Updated upstream
 Mercedes
 Jeep
+=======
+Nissan
+Lexus
+Ferrari
+>>>>>>> Stashed changes
